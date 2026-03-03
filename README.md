@@ -1,5 +1,6 @@
 # Multimodal Fusion for Molecular Property Prediction
 
+```
 Multmodal_Fusion/
 │
 ├── src/                         # Core scripts
@@ -24,3 +25,4 @@ Multmodal_Fusion/
 ├── requirements.txt
 ├── LICENSE
 └── README.md
+```
